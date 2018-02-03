@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/wurde/hesitate/issues"
   },
-  "homepage": "https://github.com/wurde/hesitate#readme"
+  "homepage": "https://github.com/wurde/hesitate#readme",
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  }
 }

@@ -12,6 +12,8 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+## 2018-02-03, Version 1.0.0
+
 * 4 minor enhancements:
 
   * deps: add mocha

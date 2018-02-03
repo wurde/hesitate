@@ -12,9 +12,10 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
-* 2 minor enhancements:
+* 3 minor enhancements:
 
   * deps: add mocha
+  * deps: add puppeteer
   * docs: expand README
 
 ## 2018-02-03, Version 0.1.0 (unstable)

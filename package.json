@@ -1,0 +1,25 @@
+{
+  "name": "hesitate",
+  "version": "0.1.0",
+  "description": "Human-like delay between page interactions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wurde/hesitate.git"
+  },
+  "keywords": [
+    "bots",
+    "bot",
+    "automation",
+    "helpers"
+  ],
+  "author": "Andy Bettisworth <andy@accreu.com> (https://andybettisworth.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wurde/hesitate/issues"
+  },
+  "homepage": "https://github.com/wurde/hesitate#readme"
+}

@@ -19,7 +19,7 @@ $ npm install hesitate --save
 
 const pussy = require('pussy')
 const puppeteer = require("puppeteer")
-const hesitate = require("./index")
+const hesitate = require("hesitate")
 
 /**
  * Initialize the bot.

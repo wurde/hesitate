@@ -12,6 +12,8 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+## 2018-08-01, Version 1.1.0
+
 * 1 minor enhancement
 
   * deps: update puppeteer to 1.6.1
